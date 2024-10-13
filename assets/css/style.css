@@ -2735,20 +2735,21 @@ p {
 }
 
 .form-heading{
-  color: white;
+  color:#007bff;
   text-align: center;
-  font-size: 32px;
+  font-size: 45px;
 }
 
 .form-para{
-color: white;
+color: #007bff;
 text-align: center;
-font-size: 16px;
+font-size: 17px;
 }
 
 .form-heading2{
-  color:#007bff;
+  color:#021933;
 text-align: center;
+font-size: 34px;
 }
 
 .icon {
